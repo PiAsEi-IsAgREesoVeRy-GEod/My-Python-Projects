@@ -16,7 +16,7 @@ if answer == options[1]:
     print("Excellent job, well done!")
 else:
     print("Incorrect, let's try another one.")
-time.sleep(3)
+time.sleep(2)
 #Question 2
 question2 = "\n_______ are no cookies left in the pink jar."
 print(question2)
@@ -25,7 +25,7 @@ if answer == options[0]:
     print("Excellent job, well done!")
 else:
     print("Incorrect, let's try another one.")
-time.sleep(3)
+time.sleep(2)
 #Question 3
 print("\n_______ dancing by the sea shore.")
 answer = question()
